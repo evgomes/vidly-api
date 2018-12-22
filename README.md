@@ -1,7 +1,5 @@
 # Vidly API
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 Movie rental API built as the final project for [Node.js: The Complete Guide to Build RESTful APIs](https://www.udemy.com/nodejs-master-class/).
 
 ## Online Demo
